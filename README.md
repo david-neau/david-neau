@@ -3,16 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=david-neau&label=Profile%20views&color=0e75b6&style=flat" alt="david-neau" /> </p>
 
-- 🔭 I’m currently working on **my bachelor thesis**
+- 🔭 I’m currently working on **A Blog & E-commerce Website**
 
-- 🌱 I’m currently learning **Spring Boot, PostgreSQL**
+- 🌱 I’m currently learning **Next.JS, Tailwind CSS, Shopify, Headless Architecture**
 
 - 👨‍💻 All of my projects are available at [https://github.com/david-neau](https://github.com/david-neau)
 
-- 📫 How to reach me **realdavidneau@gmail.com**
+- 📫 Contact me at: **realdavidneau@gmail.com**
 
-- 📄 Know about my experiences [https://www.figma.com/design/qy1SAbL6siKqeLNQ5PbF35/David-Neau---CV-2024?node-id=0-1&t=j2DQZ0TjB4GMRlkh-1](https://www.figma.com/design/qy1SAbL6siKqeLNQ5PbF35/David-Neau---CV-2024?node-id=0-1&t=j2DQZ0TjB4GMRlkh-1)
-
+- 📄 Know more about my experiences, find my CV [here!](https://www.figma.com/design/lMlrMrTsuZHBUIRmN8acSn/David-Neau---Software-Engineering-CV-2025?node-id=0-1&t=ShAKnvVadRoZjR3l-1)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
